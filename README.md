@@ -1,4 +1,5 @@
-# Project: Free Lunch
+# Free Lunch
+![Image 2-11-23 at 20 12 (1)](https://github.com/wangsy503/FemmeHack-2023/assets/46682066/cb23f6f9-e6d8-4294-b71f-82486f2e65ae)
 
 Hi! We are graduate students from University of Pennsylvania majoring in EE, CIS and MCIT. Here is our project for FemmeHacks 2023.
 
